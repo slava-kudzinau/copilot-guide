@@ -1,3 +1,9 @@
+---
+title: "Section 3: Core Workflows"
+parent: "Part 1: Fundamentals & Core Concepts"
+nav_order: 3
+---
+
 # Part 1, Section 3: Core Workflows
 
 **Part of**: [Part 1: Fundamentals & Core Concepts](./README.md)  

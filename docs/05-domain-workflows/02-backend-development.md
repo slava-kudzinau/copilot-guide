@@ -1,3 +1,9 @@
+---
+title: "Section 2: Backend Development Workflows"
+parent: "Part 5: Specialized Workflows & Domains"
+nav_order: 2
+---
+
 # Section 2: Backend Development Workflows
 
 **Part of:** [Part 5: Specialized Workflows & Domains](README.md)  

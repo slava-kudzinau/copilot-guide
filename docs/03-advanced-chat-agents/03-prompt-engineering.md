@@ -1,3 +1,9 @@
+---
+title: "Section 3: Prompt Engineering for Copilot Chat"
+parent: "Part 3: Advanced Chat & Agent Development"
+nav_order: 3
+---
+
 # Section 3: Prompt Engineering for Copilot Chat
 
 **Part 3: Advanced Chat & Agent Development**  

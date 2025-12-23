@@ -1,3 +1,9 @@
+---
+title: "Section 3: Data Engineering & SQL"
+parent: "Part 5: Specialized Workflows & Domains"
+nav_order: 3
+---
+
 # Section 3: Data Engineering & SQL
 
 **Part of:** [Part 5: Specialized Workflows & Domains](README.md)  

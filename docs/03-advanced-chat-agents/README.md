@@ -1,3 +1,10 @@
+---
+title: "Part 3: Advanced Chat & Agent Development"
+nav_order: 4
+has_children: true
+permalink: /docs/03-advanced-chat-agents/
+---
+
 # Part 3: Advanced Chat & Agent Development
 
 **Target Audience**: Senior developers ready to master Copilot's chat and agent capabilities  

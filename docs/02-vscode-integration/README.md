@@ -1,3 +1,10 @@
+---
+title: "Part 2: Mastering VS Code Integration"
+nav_order: 3
+has_children: true
+permalink: /docs/02-vscode-integration/
+---
+
 # Part 2: Mastering VS Code Integration
 
 **Target Audience:** Developers ready to optimize their VS Code + Copilot workflow  

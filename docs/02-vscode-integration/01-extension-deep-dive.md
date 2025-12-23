@@ -1,3 +1,9 @@
+---
+title: "Section 1: VS Code Copilot Extension Deep Dive"
+parent: "Part 2: Mastering VS Code Integration"
+nav_order: 1
+---
+
 # Section 1: VS Code Copilot Extension Deep Dive
 
 **Part 2 > Section 1 of 4**  

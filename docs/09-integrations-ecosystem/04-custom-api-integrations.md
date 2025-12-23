@@ -1,3 +1,9 @@
+---
+title: "Section 4: Custom API Integrations"
+parent: "Part 9: Integrations & Ecosystem"
+nav_order: 4
+---
+
 # Section 4: Custom API Integrations
 
 **Build MCP servers to connect Copilot with any API**

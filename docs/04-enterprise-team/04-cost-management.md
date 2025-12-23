@@ -1,3 +1,9 @@
+---
+title: "Section 4: Cost Management & Usage Analytics"
+parent: "Part 4: Enterprise & Team Collaboration"
+nav_order: 4
+---
+
 # Section 4: Cost Management & Usage Analytics
 
 **Time to Complete:** 45 minutes  

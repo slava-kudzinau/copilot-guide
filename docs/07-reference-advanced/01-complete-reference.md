@@ -1,3 +1,9 @@
+---
+title: "Section 1: Complete Reference Guide"
+parent: "Part 7: Reference, Troubleshooting & Advanced"
+nav_order: 1
+---
+
 # Section 1: Complete Reference Guide
 
 **Part 7: Reference, Troubleshooting & Advanced**

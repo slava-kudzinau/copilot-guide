@@ -1,3 +1,9 @@
+---
+title: "Section 2: Workspace Optimization Patterns"
+parent: "Part 2: Mastering VS Code Integration"
+nav_order: 2
+---
+
 # Section 2: Workspace Optimization Patterns
 
 **Part 2 > Section 2 of 4**  

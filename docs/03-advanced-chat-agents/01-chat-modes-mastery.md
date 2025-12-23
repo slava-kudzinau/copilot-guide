@@ -1,3 +1,9 @@
+---
+title: "Section 1: Chat Modes Mastery"
+parent: "Part 3: Advanced Chat & Agent Development"
+nav_order: 1
+---
+
 # Section 1: Chat Modes Mastery
 
 **Part 3: Advanced Chat & Agent Development**  

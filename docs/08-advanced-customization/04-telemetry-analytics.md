@@ -1,3 +1,9 @@
+---
+title: "Section 4: Telemetry and Analytics Deep Dive"
+parent: "Part 8: Advanced Customization"
+nav_order: 4
+---
+
 # Telemetry and Analytics Deep Dive
 
 **Part 8, Section 4: Advanced Customization**  

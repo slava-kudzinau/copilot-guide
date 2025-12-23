@@ -1,3 +1,9 @@
+---
+title: "Section 3: Jira Integration via MCP"
+parent: "Part 9: Integrations & Ecosystem"
+nav_order: 3
+---
+
 # Section 3: Jira Integration via MCP
 
 **Connect GitHub Copilot with Jira for enterprise project management**

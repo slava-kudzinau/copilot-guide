@@ -1,3 +1,9 @@
+---
+title: "Section 4: Keyboard Shortcuts & Productivity Hacks"
+parent: "Part 2: Mastering VS Code Integration"
+nav_order: 4
+---
+
 # Section 4: Keyboard Shortcuts & Productivity Hacks
 
 **Part 2 > Section 4 of 4**  

@@ -1,3 +1,9 @@
+---
+title: "Section 2: Team Collaboration Patterns"
+parent: "Part 4: Enterprise & Team Collaboration"
+nav_order: 2
+---
+
 # Section 2: Team Collaboration Patterns
 
 **Time to Complete:** 45 minutes  

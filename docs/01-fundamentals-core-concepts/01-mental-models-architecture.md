@@ -1,3 +1,9 @@
+---
+title: "Section 1: Mental Models & Architecture"
+parent: "Part 1: Fundamentals & Core Concepts"
+nav_order: 1
+---
+
 # Part 1, Section 1: Mental Models & Architecture
 
 **Part of**: [VS Code & GitHub Copilot: Complete Technical Guide](../../README.md)  

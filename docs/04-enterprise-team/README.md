@@ -1,3 +1,10 @@
+---
+title: "Part 4: Enterprise & Team Collaboration"
+nav_order: 5
+has_children: true
+permalink: /docs/04-enterprise-team/
+---
+
 # Part 4: Enterprise & Team Collaboration
 
 **Target Audience:** Tech leads, engineering managers, enterprise architects, DevOps teams  

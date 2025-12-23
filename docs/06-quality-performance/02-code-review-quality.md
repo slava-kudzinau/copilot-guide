@@ -1,3 +1,9 @@
+---
+title: "Section 2: Code Review & Quality"
+parent: "Part 6: Testing, Quality & Performance"
+nav_order: 2
+---
+
 # Section 2: Code Review & Quality
 
 **Part 6: Testing, Quality & Performance**  

@@ -1,3 +1,10 @@
+---
+title: "Part 1: Fundamentals & Core Concepts"
+nav_order: 2
+has_children: true
+permalink: /docs/01-fundamentals-core-concepts/
+---
+
 # Part 1: Fundamentals & Core Concepts
 
 **Target Audience:** Essential foundations for all users  

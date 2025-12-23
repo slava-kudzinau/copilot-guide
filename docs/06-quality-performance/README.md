@@ -1,3 +1,10 @@
+---
+title: "Part 6: Testing, Quality & Performance"
+nav_order: 7
+has_children: true
+permalink: /docs/06-quality-performance/
+---
+
 # Part 6: Testing, Quality & Performance
 
 **Complete guide to quality assurance and performance optimization with GitHub Copilot**

@@ -1,3 +1,9 @@
+---
+title: "Section 4: DevOps & Infrastructure"
+parent: "Part 5: Specialized Workflows & Domains"
+nav_order: 4
+---
+
 # Section 4: DevOps & Infrastructure
 
 **Part of:** [Part 5: Specialized Workflows & Domains](README.md)  

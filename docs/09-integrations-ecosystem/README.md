@@ -1,3 +1,10 @@
+---
+title: "Part 9: Integrations & Ecosystem"
+nav_order: 10
+has_children: true
+permalink: /docs/09-integrations-ecosystem/
+---
+
 # Part 9: Integrations & Ecosystem
 
 **Extend GitHub Copilot with powerful integrations and third-party tools**

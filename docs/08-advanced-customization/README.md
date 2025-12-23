@@ -1,3 +1,10 @@
+---
+title: "Part 8: Advanced Customization"
+nav_order: 9
+has_children: true
+permalink: /docs/08-advanced-customization/
+---
+
 # Part 8: Advanced Customization
 
 **Master advanced GitHub Copilot customization techniques**

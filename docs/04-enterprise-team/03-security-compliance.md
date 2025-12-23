@@ -1,3 +1,9 @@
+---
+title: "Section 3: Security & Compliance"
+parent: "Part 4: Enterprise & Team Collaboration"
+nav_order: 3
+---
+
 # Section 3: Security & Compliance
 
 **Time to Complete:** 45 minutes  

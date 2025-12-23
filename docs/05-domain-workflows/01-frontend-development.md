@@ -1,3 +1,9 @@
+---
+title: "Section 1: Frontend Development Workflows"
+parent: "Part 5: Specialized Workflows & Domains"
+nav_order: 1
+---
+
 # Section 1: Frontend Development Workflows
 
 **Part of:** [Part 5: Specialized Workflows & Domains](README.md)  

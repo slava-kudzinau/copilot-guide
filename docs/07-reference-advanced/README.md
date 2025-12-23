@@ -1,3 +1,10 @@
+---
+title: "Part 7: Reference, Troubleshooting & Advanced"
+nav_order: 8
+has_children: true
+permalink: /docs/07-reference-advanced/
+---
+
 # Part 7: Reference, Troubleshooting & Advanced
 
 **Complete reference guide and problem-solving for GitHub Copilot in VS Code**

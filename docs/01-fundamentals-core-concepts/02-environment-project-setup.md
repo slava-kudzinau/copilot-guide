@@ -1,3 +1,9 @@
+---
+title: "Section 2: Environment & Project Setup"
+parent: "Part 1: Fundamentals & Core Concepts"
+nav_order: 2
+---
+
 # Part 1, Section 2: Environment & Project Setup
 
 **Part of:** [Part 1: Fundamentals & Core Concepts](./README.md)  

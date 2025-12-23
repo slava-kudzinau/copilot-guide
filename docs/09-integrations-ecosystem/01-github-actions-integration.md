@@ -1,3 +1,9 @@
+---
+title: "Section 1: GitHub Actions Integration"
+parent: "Part 9: Integrations & Ecosystem"
+nav_order: 1
+---
+
 # Section 1: GitHub Actions Integration
 
 **Automate your development workflow with GitHub Copilot and Actions**

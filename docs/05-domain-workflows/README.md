@@ -1,3 +1,10 @@
+---
+title: "Part 5: Specialized Workflows & Domains"
+nav_order: 6
+has_children: true
+permalink: /docs/05-domain-workflows/
+---
+
 # Part 5: Specialized Workflows & Domains
 
 **Complete Technical Guide for Domain-Specific GitHub Copilot Usage**

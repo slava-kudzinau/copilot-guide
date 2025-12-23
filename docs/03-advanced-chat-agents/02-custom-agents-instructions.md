@@ -1,3 +1,9 @@
+---
+title: "Section 2: Custom Agents & Instructions"
+parent: "Part 3: Advanced Chat & Agent Development"
+nav_order: 2
+---
+
 # Section 2: Custom Agents & Instructions
 
 **Part 3: Advanced Chat & Agent Development**  

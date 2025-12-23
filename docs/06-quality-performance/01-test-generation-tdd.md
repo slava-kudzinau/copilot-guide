@@ -1,3 +1,9 @@
+---
+title: "Section 1: Test Generation & TDD"
+parent: "Part 6: Testing, Quality & Performance"
+nav_order: 1
+---
+
 # Section 1: Test Generation & TDD
 
 **Part 6: Testing, Quality & Performance**  

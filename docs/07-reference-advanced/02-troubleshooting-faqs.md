@@ -1,3 +1,9 @@
+---
+title: "Section 2: Troubleshooting & FAQs"
+parent: "Part 7: Reference, Troubleshooting & Advanced"
+nav_order: 2
+---
+
 # Section 2: Troubleshooting & FAQs
 
 **Part 7: Reference, Troubleshooting & Advanced**

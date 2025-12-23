@@ -1,3 +1,9 @@
+---
+title: "Section 2: Training Team-Specific Agents"
+parent: "Part 8: Advanced Customization"
+nav_order: 2
+---
+
 # Training Team-Specific Agents
 
 **Part 8, Section 2: Advanced Customization**  

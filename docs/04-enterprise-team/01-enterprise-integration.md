@@ -1,3 +1,9 @@
+---
+title: "Section 1: GitHub Enterprise Integration"
+parent: "Part 4: Enterprise & Team Collaboration"
+nav_order: 1
+---
+
 # Section 1: GitHub Enterprise Integration
 
 **Time to Complete:** 45 minutes  

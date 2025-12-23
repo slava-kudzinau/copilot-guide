@@ -1,3 +1,9 @@
+---
+title: "Section 5: Third-Party Extension Ecosystem"
+parent: "Part 9: Integrations & Ecosystem"
+nav_order: 5
+---
+
 # Section 5: Third-Party Extension Ecosystem
 
 **Discover and leverage extensions that enhance GitHub Copilot**

@@ -1,3 +1,9 @@
+---
+title: "Section 2: GitHub Issues and Projects Integration"
+parent: "Part 9: Integrations & Ecosystem"
+nav_order: 2
+---
+
 # Section 2: GitHub Issues and Projects Integration
 
 **Connect Copilot with GitHub's project management capabilities**

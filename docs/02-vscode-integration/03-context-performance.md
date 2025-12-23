@@ -1,3 +1,9 @@
+---
+title: "Section 3: Context Management & Performance"
+parent: "Part 2: Mastering VS Code Integration"
+nav_order: 3
+---
+
 # Section 3: Context Management & Performance
 
 **Part 2 > Section 3 of 4**  

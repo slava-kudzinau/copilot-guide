@@ -1,3 +1,9 @@
+---
+title: "Section 3: Performance Optimization"
+parent: "Part 6: Testing, Quality & Performance"
+nav_order: 3
+---
+
 # Section 3: Performance Optimization
 
 **Part 6: Testing, Quality & Performance**  

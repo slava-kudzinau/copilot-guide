@@ -1,3 +1,9 @@
+---
+title: "Section 3: Fine-Tuning Prompts for Domain-Specific Code"
+parent: "Part 8: Advanced Customization"
+nav_order: 3
+---
+
 # Fine-Tuning Prompts for Domain-Specific Code
 
 **Part 8, Section 3: Advanced Customization**  

@@ -1,3 +1,9 @@
+---
+title: "Section 4: MCP Server Integration"
+parent: "Part 3: Advanced Chat & Agent Development"
+nav_order: 4
+---
+
 # Section 4: MCP Server Integration
 
 **Part 3: Advanced Chat & Agent Development**  

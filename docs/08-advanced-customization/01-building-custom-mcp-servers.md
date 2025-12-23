@@ -1,3 +1,9 @@
+---
+title: "Section 1: Building Custom MCP Servers"
+parent: "Part 8: Advanced Customization"
+nav_order: 1
+---
+
 # Building Custom MCP Servers
 
 **Part 8, Section 1: Advanced Customization**  
