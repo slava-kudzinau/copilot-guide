@@ -8,7 +8,7 @@ permalink: /docs/02-vscode-integration/
 # Part 2: Mastering VS Code Integration
 
 **Target Audience:** Developers ready to optimize their VS Code + Copilot workflow  
-**Time to Complete:** 3 hours  
+**Time to Complete:** 4 hours  
 **Prerequisites:** Part 1 (Fundamentals & Core Concepts)
 
 ---
@@ -88,6 +88,21 @@ Master keyboard-driven workflows to maximize speed and minimize context switchin
 
 ---
 
+### [Section 5: Command & Context Patterns](05-command-context-patterns.md)
+**Time:** 60 minutes
+
+Master the art of combining slash commands with context references for maximum productivity.
+
+**Key Topics:**
+- Slash command decision trees
+- Context reference selection guide (`@` and `#` references)
+- Combination patterns and workflows
+- Real-world usage scenarios (TDD, debugging, refactoring)
+- Performance optimization strategies
+- Custom keyboard shortcuts for patterns
+
+---
+
 ## 🎯 Learning Objectives
 
 ### After Section 1 (Extension Deep Dive)
@@ -113,6 +128,13 @@ Master keyboard-driven workflows to maximize speed and minimize context switchin
 - [ ] Create custom keybindings for frequent tasks
 - [ ] Combine multi-cursor with Copilot suggestions
 - [ ] Set up accessibility features if needed
+
+### After Section 5 (Command & Context Patterns)
+- [ ] Choose appropriate slash commands vs natural language
+- [ ] Select optimal context references for tasks
+- [ ] Combine commands and context effectively
+- [ ] Implement common workflow patterns
+- [ ] Create keyboard shortcuts for frequent patterns
 
 ---
 
@@ -222,17 +244,19 @@ graph TB
 ### Linear Path (Comprehensive)
 Follow sections 1 → 2 → 3 → 4 for complete mastery
 
-### Fast Track (2 hours)
+### Fast Track (2.5 hours)
 1. Section 1: Read "Three Chat Interfaces" and "Essential Shortcuts"
 2. Section 2: Complete "Workspace Setup" workshop
 3. Section 3: Read "Context Optimization" strategies
 4. Section 4: Memorize "Top 10 Shortcuts"
+5. Section 5: Review "Combination Patterns" and "Quick Reference Tables"
 
 ### Team Lead Path
 1. Section 2: Full section (workspace patterns for teams)
 2. Section 3: "Context Management" for large codebases
 3. Section 1: "Privacy Settings" for compliance
 4. Section 4: "Custom Keybindings" for team consistency
+5. Section 5: "Real-World Workflows" for team training
 
 ---
 
@@ -356,6 +380,7 @@ Choose your path:
 2. **Team Lead** → Jump to [Section 2: Workspace Optimization](02-workspace-optimization.md)
 3. **Performance Focused** → Go to [Section 3: Context & Performance](03-context-performance.md)
 4. **Keyboard Ninja** → Begin with [Section 4: Keyboard Shortcuts](04-keyboard-productivity.md)
+5. **Pattern Learner** → Focus on [Section 5: Command & Context Patterns](05-command-context-patterns.md)
 
 ---
 
