@@ -462,15 +462,15 @@ Now, let's build a navigation menu component
 
 ```mermaid
 flowchart TD
-    START[Task to Accomplish]
+    START["Task to Accomplish"]
     
-    START --> Q1{Is it a standard,<br/>well-defined task?}
+    START --> Q1{"Is it a standard,<br/>well-defined task?"}
     
-    Q1 -->|Yes| Q2{Need custom<br/>specifications?}
-    Q1 -->|No| NATURAL[Use Natural Language]
+    Q1 -->|Yes| Q2{"Need custom<br/>specifications?"}
+    Q1 -->|No| NATURAL["Use Natural Language"]
     
-    Q2 -->|No| COMMAND[Use Slash Command]
-    Q2 -->|Yes| COMBINE[Slash Command<br/>+ Natural Language]
+    Q2 -->|No| COMMAND["Use Slash Command"]
+    Q2 -->|Yes| COMBINE["Slash Command<br/>+ Natural Language"]
     
     COMMAND --> EX1["Example:<br/>/tests"]
     COMBINE --> EX2["Example:<br/>/tests using Vitest<br/>with component testing"]
@@ -721,24 +721,24 @@ What files are in my components folder? #listDirectory src/components
 
 ```mermaid
 flowchart TD
-    START[Which Context?]
+    START["Which Context?"]
     
-    START --> Q1{Know exact file?}
+    START --> Q1{"Know exact file?"}
     
-    Q1 -->|Yes| FILE[#file:path]
-    Q1 -->|No| Q2{Question about<br/>entire project?}
+    Q1 -->|Yes| FILE["#file:path"]
+    Q1 -->|No| Q2{"Question about<br/>entire project?"}
     
-    Q2 -->|Yes| WORKSPACE[@workspace]
-    Q2 -->|No| Q3{Need terminal<br/>output?}
+    Q2 -->|Yes| WORKSPACE["@workspace"]
+    Q2 -->|No| Q3{"Need terminal<br/>output?"}
     
-    Q3 -->|Yes| TERMINAL[@terminal or<br/>#terminalLastCommand]
-    Q3 -->|No| Q4{Have code<br/>selected?}
+    Q3 -->|Yes| TERMINAL["@terminal or<br/>#terminalLastCommand"]
+    Q3 -->|No| Q4{"Have code<br/>selected?"}
     
-    Q4 -->|Yes| SELECTION[#selection<br/>(often implicit)]
-    Q4 -->|No| Q5{Linter/test<br/>errors?}
+    Q4 -->|Yes| SELECTION["#selection<br/>(often implicit)"]
+    Q4 -->|No| Q5{"Linter/test<br/>errors?"}
     
-    Q5 -->|Yes| PROBLEMS[#problems or<br/>#testFailure]
-    Q5 -->|No| NATURAL[Natural language<br/>Let Copilot decide]
+    Q5 -->|Yes| PROBLEMS["#problems or<br/>#testFailure"]
+    Q5 -->|No| NATURAL["Natural language<br/>Let Copilot decide"]
     
     style START fill:#0066cc,color:#fff,stroke:#003d7a,stroke-width:3px
     style FILE fill:#90EE90
@@ -1237,16 +1237,16 @@ The authentication endpoint is failing. Debug and fix.
 
 ```mermaid
 flowchart TD
-    START[Choose Chat Interface]
+    START["Choose Chat Interface"]
     
-    START --> Q1{Need to edit code?}
+    START --> Q1{"Need to edit code?"}
     
-    Q1 -->|Yes, single file| INLINE[Inline Chat<br/>Ctrl+I]
-    Q1 -->|Yes, multiple files| VIEW[Chat View<br/>Ctrl+Alt+I]
-    Q1 -->|No| Q2{Multi-turn<br/>conversation?}
+    Q1 -->|Yes, single file| INLINE["Inline Chat<br/>Ctrl+I"]
+    Q1 -->|Yes, multiple files| VIEW["Chat View<br/>Ctrl+Alt+I"]
+    Q1 -->|No| Q2{"Multi-turn<br/>conversation?"}
     
     Q2 -->|Yes| VIEW
-    Q2 -->|No| QUICK[Quick Chat<br/>Ctrl+Shift+Alt+L]
+    Q2 -->|No| QUICK["Quick Chat<br/>Ctrl+Shift+Alt+L"]
     
     INLINE --> INLINEUSE["/fix<br/>/doc<br/>Refactor"]
     VIEW --> VIEWUSE["/tests<br/>/new<br/>Complex tasks"]
@@ -1268,9 +1268,9 @@ Different context references have different performance impacts. Choose wisely f
 
 ```mermaid
 graph LR
-    FAST[Fast ⚡<br/>< 1 second]
-    MEDIUM[Medium ⚠️<br/>1-3 seconds]
-    SLOW[Slow 🐌<br/>3-10 seconds]
+    FAST["Fast ⚡<br/>< 1 second"]
+    MEDIUM["Medium ⚠️<br/>1-3 seconds"]
+    SLOW["Slow 🐌<br/>3-10 seconds"]
     
     FAST --> F1["#file:specific-path"]
     FAST --> F2["#selection"]
